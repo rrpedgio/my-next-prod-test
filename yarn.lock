@@ -1043,7 +1043,7 @@
     "@babel/helper-validator-identifier" "^7.22.5"
     to-fast-properties "^2.0.0"
 
-"@edgio/cli@^7.0.15":
+"@edgio/cli@^7.0.31":
   version "7.0.31"
   resolved "https://registry.yarnpkg.com/@edgio/cli/-/cli-7.0.31.tgz#39ae2a80c9afbf02629d461734b2d7772d509eb3"
   integrity sha512-hlxwf6togGzKAYaLRby79v8DesH3SbxSTz2unxVVEjeorC/qng2QpO+krChhkLvj8581FLBc8UldL5n1zrMX2g==
@@ -1090,7 +1090,7 @@
     yauzl "^2.10.0"
     yazl "^2.5.1"
 
-"@edgio/core@^7.0.15", "@edgio/core@^7.0.31":
+"@edgio/core@^7.0.31":
   version "7.0.31"
   resolved "https://registry.yarnpkg.com/@edgio/core/-/core-7.0.31.tgz#65a8c958cda7704439129d05b4cd3a1cd1bf0097"
   integrity sha512-SMf9rDtLHdCDj0s9pnJN/Q/yFZyLzwwUIacvnAPeDzsJC/w9cvmOP7mbasuistEnCvXF4GwjxKelsARCSfnOrQ==
@@ -1141,7 +1141,7 @@
     workbox-build "^6.5.4"
     yaml-validator "^4.0.0"
 
-"@edgio/devtools@^7.0.15":
+"@edgio/devtools@^7.0.31":
   version "7.0.31"
   resolved "https://registry.yarnpkg.com/@edgio/devtools/-/devtools-7.0.31.tgz#28a838fe2c953661220de67fec0247d35d2eb01d"
   integrity sha512-5KMW4HUu1dA0RrLCD9IwH6p0Hprrt1SJmRFcVne1akLKAU7uuM+jZLIBpB+8cyOUvS6W+8K6X8svdcezKbVdcg==
@@ -1150,7 +1150,7 @@
     lodash "^4.17.20"
     sirv-cli "^1.0.0"
 
-"@edgio/next@^7.0.15":
+"@edgio/next@^7.0.31":
   version "7.0.31"
   resolved "https://registry.yarnpkg.com/@edgio/next/-/next-7.0.31.tgz#08fd272f5e4a1aacc769b25198018f00f64fee10"
   integrity sha512-85tZTQSuL7KBbIcW4wYG2r1bTl/MjPO+7aw+fa1X24dyzD/oOj8ZnAUoNZIbhSjEzWMqoF82Kf87dmtvcwvpkA==
@@ -1171,7 +1171,7 @@
     webpack "^4.0.0"
     webpack-sources "^2.2.0"
 
-"@edgio/prefetch@^7.0.15":
+"@edgio/prefetch@^7.0.31":
   version "7.0.31"
   resolved "https://registry.yarnpkg.com/@edgio/prefetch/-/prefetch-7.0.31.tgz#63e6e01fa8c3901656e54ea29b546a60004c6634"
   integrity sha512-M5Tng3FjwWkhvI6i9Xch1lWCHwtcxQGeHsUo0N6LWQ8XuMgYrj9x9kicWtL4Z0rqoDjz+0dinir5g0GhSblwrA==
