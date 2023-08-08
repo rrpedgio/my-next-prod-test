@@ -32,5 +32,7 @@
     "prettier-plugin-tailwindcss": "^0.2.8",
     "tailwindcss": "^3.3.2"
   },
-  "repository": "git@github.com:edgio-docs/edgio-v7-nextjs-example.git"
+  "repository": "git@github.com:edgio-docs/edgio-v7-nextjs-example.git",
+  "main": "index.js",
+  "author": "Ronald Pruitt <rpruitt@llnw.com>"
 }
